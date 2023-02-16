@@ -4,7 +4,14 @@
 ### open it using google colab
 
 
-
+you will need to unzip dataset
+```
+from google.colab import drive
+drive.mount('/content/drive/')
+%cd /content/drive/MyDrive/Encrypted-Machine-Learning/dataset
+!unzip -q enron1.zip
+!unzip -q enron2.zip
+```
 
 
 
