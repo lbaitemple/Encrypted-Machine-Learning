@@ -1,5 +1,25 @@
 # Encrypted Machine Learning
 
+### download the git repo and upload it to your root google drive
+### open it using google colab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ***This repository contains my exploration with different Homomorphic Encryption Techniques for Machine Learning and Federated Learning.***
 
 # Requirements
